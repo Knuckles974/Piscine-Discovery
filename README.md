@@ -1,1 +1,3 @@
 # Piscine-Discovery
+
+Jean de La Fontaine, baptisé le 8 juillet 1621 en l'église Saint-Crépin-hors-les-murs à Château-Thierry et mort le 13 avril 1695 à Paris, est un homme de lettres du Grand siècle et l'un des principaux représentants du classicisme français. Outre ses Fables et ses Contes libertins, qui ont établi sa célébrité dès les années 1660, on lui doit divers poèmes, pièces de théâtre et livrets d'opéra qui confirment son ambition de moraliste.
